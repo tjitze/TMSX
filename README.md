@@ -81,7 +81,7 @@ Konami Nemesis II
 
 Konami King's Valley 2
 
-![Kings Valley](/MSXEMU/screenshots/King's%20Valley 2.tiff?raw=true)
+![Kings Valley](/MSXEMU/screenshots/King's%20Valley%202.tiff?raw=true)
 
 Konami Knightmare
 
