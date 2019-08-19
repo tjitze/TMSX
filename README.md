@@ -61,7 +61,7 @@ MSX BASIC
 
 Konami Panguin Adventure
 
-![Antarctic Adventure](/MSXEMU/screenshots/penguin adventure.tiff?raw=true)
+![Antarctic Adventure](/MSXEMU/screenshots/penguin%20adventure.tiff?raw=true)
 
 Konami Frogger
 
@@ -77,11 +77,11 @@ Konami Tennis
 
 Konami Nemesis II
 
-![Konami Tennis](/MSXEMU/screenshots/nemesis 2.tiff?raw=true)
+![Konami Tennis](/MSXEMU/screenshots/nemesis%202.tiff?raw=true)
 
 Konami King's Valley 2
 
-![Kings Valley](/MSXEMU/screenshots/King's Valley 2.tiff?raw=true)
+![Kings Valley](/MSXEMU/screenshots/King's%20Valley 2.tiff?raw=true)
 
 Konami Knightmare
 
